@@ -3,6 +3,7 @@
 Este repositorio contiene la primera parte del Proyecto Integrador correspondiente al desarrollo de un sistema modular en Python para la gestión de una ferretería. El proyecto incluye el **código fuente**, la **documentación formal en formato PDF** y la **defensa en video**.
 
 * 🔗 **Enlace del Repositorio:** [TPI-Programacion-Ferreteria_IvanRamirez](https://github.com/IvanRamirez1996/TPI-Programacion-Ferreteria_IvanRamirez)
+* 🎥 **Enlace de Video:** [Enlace al video de la presentación](https://drive.google.com/file/d/19Fa3-DVEK7_VB7lGvBCtpQrLai-UnXR3/view?usp=drive_link)
 
 ---
 
@@ -23,15 +24,6 @@ Este repositorio contiene la primera parte del Proyecto Integrador correspondien
 ## 🚀 Ejecución del Código Fuente
 
 * **Requisito:** Tener instalado Python (versión 3.14 o superior).
-
-Para iniciar la aplicación desde tu terminal, ejecuta:
-```bash
-python Ivan_Ramirez_P1/main.py
-
-
-## 🎥 Video de Presentación y Demostración
-Puedes ver la defensa del proyecto en el siguiente enlace de Google Drive:
-[Enlace al video de la presentación](https://drive.google.com/file/d/19Fa3-DVEK7_VB7lGvBCtpQrLai-UnXR3/view?usp=drive_link)
 
 Para iniciar la aplicación desde tu terminal, ejecuta:
 ```bash
