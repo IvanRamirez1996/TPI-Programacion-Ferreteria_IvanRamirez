@@ -1,0 +1,12 @@
+def mostrar_menu():
+    print("\n========================================")
+    print("   SISTEMA DE CONTROL DE INVENTARIO     ")
+    print("========================================")
+    print("1. Cargar herramientas con existencias")
+    print("2. Mostrar inventario completo")
+    print("3. Consultar stock de una herramienta")
+    print("4. Reporte de herramientas agotadas")
+    print("5. Alta de nuevo producto")
+    print("6. Actualizar stock (venta / ingreso)")
+    print("7. Salir")
+    print("========================================")
